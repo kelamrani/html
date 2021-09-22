@@ -96,6 +96,7 @@ It help respondents to fill out forms faster and by the way have a smooth browsi
 ## Q12 - Which attributes are always present in an img element?
 
 'src' attribute to indicate the location of the image on the Internet.
+'alt' attribute to indicate the title of the image.
 
 ## Q13 - Which attribute is always present for an anchor tag?
 

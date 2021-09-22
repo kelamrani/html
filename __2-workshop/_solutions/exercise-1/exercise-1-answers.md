@@ -130,4 +130,3 @@ It is when the browser auto-populates input fields. This is a convenience.
 ## Q13 - Which attribute is always present for an anchor tag?
 
 - `href=""`
-
